@@ -1,0 +1,17 @@
+.btn {
+    height: 200px;
+    width: 250px;
+    padding: 8px 12px;
+    border-radius: 3px;
+    border: 0;
+}
+
+.btnPrimary {
+    color: white;
+    background-color: blue;
+}
+
+.btnSecondary {
+    color: yellow;
+    background-color: red;
+}
